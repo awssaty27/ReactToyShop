@@ -11,7 +11,7 @@ export default function Categories() {
         <div className="categoriesDiv">
           <div style={{ width: "30%" }}>
             <img
-              src="https://cdn.shopify.com/s/files/1/0696/9637/products/EleandPlush_1024x1024.jpg?v=1653995089"
+              src="./Gift Basket For 2.jpg"
               alt="..."
               style={{ width: "50%", borderRadius: "0 25px 0 25px" }}
             />
